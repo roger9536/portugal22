@@ -1,0 +1,266 @@
+#EXTM3U
+#EXTINF:-1,PT: 24 Kitchen
+http://iptvtree.net:8080/resplice/wdLIS4d9758INyuX/2025
+#EXTINF:-1,PT: A Bola TV
+http://iptvtree.net:8080/resplice/wdLIS4d9758INyuX/1420
+#EXTINF:-1,PT: A&E
+http://iptvtree.net:8080/resplice/wdLIS4d9758INyuX/279741
+#EXTINF:-1,PT: ADB TV
+http://iptvtree.net:8080/resplice/wdLIS4d9758INyuX/299412
+#EXTINF:-1,PT: Advance SIC
+http://iptvtree.net:8080/resplice/wdLIS4d9758INyuX/290666
+#EXTINF:-1,PT: Afro Music Channel
+http://iptvtree.net:8080/resplice/wdLIS4d9758INyuX/1536
+#EXTINF:-1,PT: Alma Lusa
+http://iptvtree.net:8080/resplice/wdLIS4d9758INyuX/264642
+#EXTINF:-1,PT: AMC
+http://iptvtree.net:8080/resplice/wdLIS4d9758INyuX/1473
+#EXTINF:-1,PT: Apaixonados Series
+http://iptvtree.net:8080/resplice/wdLIS4d9758INyuX/286834
+#EXTINF:-1,PT: AR TV
+http://iptvtree.net:8080/resplice/wdLIS4d9758INyuX/9629
+#EXTINF:-1,PT: AXN
+http://iptvtree.net:8080/resplice/wdLIS4d9758INyuX/1469
+#EXTINF:-1,PT: AXN Black
+http://iptvtree.net:8080/resplice/wdLIS4d9758INyuX/278653
+#EXTINF:-1,PT: AXN Movies
+http://iptvtree.net:8080/resplice/wdLIS4d9758INyuX/1471
+#EXTINF:-1,PT: AXN White
+http://iptvtree.net:8080/resplice/wdLIS4d9758INyuX/1467
+#EXTINF:-1,PT: Baby TV
+http://iptvtree.net:8080/resplice/wdLIS4d9758INyuX/1441
+#EXTINF:-1,PT: Benfica TV
+http://iptvtree.net:8080/resplice/wdLIS4d9758INyuX/1497
+#EXTINF:-1,PT: Biggs
+http://iptvtree.net:8080/resplice/wdLIS4d9758INyuX/1439
+#EXTINF:-1,PT: Blaze
+http://iptvtree.net:8080/resplice/wdLIS4d9758INyuX/3996
+#EXTINF:-1,PT: Bloomberg
+http://iptvtree.net:8080/resplice/wdLIS4d9758INyuX/5933
+#EXTINF:-1,PT: Boomerang
+http://iptvtree.net:8080/resplice/wdLIS4d9758INyuX/24529
+#EXTINF:-1,PT: Campo Pequeno
+http://iptvtree.net:8080/resplice/wdLIS4d9758INyuX/28029
+#EXTINF:-1,PT: Canal 11
+http://iptvtree.net:8080/resplice/wdLIS4d9758INyuX/1480
+#EXTINF:-1,PT: CANAL 180
+http://iptvtree.net:8080/resplice/wdLIS4d9758INyuX/146057
+#EXTINF:-1,PT: Canal Hollywood
+http://iptvtree.net:8080/resplice/wdLIS4d9758INyuX/1455
+#EXTINF:-1,PT: Canal Macau
+http://iptvtree.net:8080/resplice/wdLIS4d9758INyuX/197872
+#EXTINF:-1,PT: Canal Nos
+http://iptvtree.net:8080/resplice/wdLIS4d9758INyuX/278550
+#EXTINF:-1,PT: Canal Panda
+http://iptvtree.net:8080/resplice/wdLIS4d9758INyuX/1438
+#EXTINF:-1,PT: Canal Q
+http://iptvtree.net:8080/resplice/wdLIS4d9758INyuX/1430
+#EXTINF:-1,PT: Canal Vida
+http://iptvtree.net:8080/resplice/wdLIS4d9758INyuX/298639
+#EXTINF:-1,PT: Cancao Nova
+http://iptvtree.net:8080/resplice/wdLIS4d9758INyuX/290766
+#EXTINF:-1,PT: Cartoon Network
+http://iptvtree.net:8080/resplice/wdLIS4d9758INyuX/1440
+#EXTINF:-1,PT: Cartoonito
+http://iptvtree.net:8080/resplice/wdLIS4d9758INyuX/300637
+#EXTINF:-1,PT: Casa e Cozinha
+http://iptvtree.net:8080/resplice/wdLIS4d9758INyuX/6097
+#EXTINF:-1,PT: Caza y Pesca
+http://iptvtree.net:8080/resplice/wdLIS4d9758INyuX/297997
+#EXTINF:-1,PT: Caçavision
+http://iptvtree.net:8080/resplice/wdLIS4d9758INyuX/13956
+#EXTINF:-1,PT: CBS Reality
+http://iptvtree.net:8080/resplice/wdLIS4d9758INyuX/1528
+#EXTINF:-1,PT: Cine Mundo
+http://iptvtree.net:8080/resplice/wdLIS4d9758INyuX/1477
+#EXTINF:-1,PT: CINEMA FANTASIA
+http://iptvtree.net:8080/resplice/wdLIS4d9758INyuX/286838
+#EXTINF:-1,PT: CINEMA JACKIE CHAN
+http://iptvtree.net:8080/resplice/wdLIS4d9758INyuX/286832
+#EXTINF:-1,PT: CM TV
+http://iptvtree.net:8080/resplice/wdLIS4d9758INyuX/1412
+#EXTINF:-1,PT: CNN Portugal
+http://iptvtree.net:8080/resplice/wdLIS4d9758INyuX/1414
+#EXTINF:-1,PT: Crime District
+http://iptvtree.net:8080/resplice/wdLIS4d9758INyuX/298636
+#EXTINF:-1,PT: Crime+ Investigation
+http://iptvtree.net:8080/resplice/wdLIS4d9758INyuX/5928
+#EXTINF:-1,PT: Discovery World
+http://iptvtree.net:8080/resplice/wdLIS4d9758INyuX/296226
+#EXTINF:-1,PT: Disney Channel
+http://iptvtree.net:8080/resplice/wdLIS4d9758INyuX/1434
+#EXTINF:-1,PT: Disney Junior
+http://iptvtree.net:8080/resplice/wdLIS4d9758INyuX/1435
+#EXTINF:-1,PT: Disney+
+http://iptvtree.net:8080/resplice/wdLIS4d9758INyuX/226084
+#EXTINF:-1,PT: Disney+ Pixar
+http://iptvtree.net:8080/resplice/wdLIS4d9758INyuX/298019
+#EXTINF:-1,PT: Dizi Channel
+http://iptvtree.net:8080/resplice/wdLIS4d9758INyuX/300240
+#EXTINF:-1,PT: E!
+http://iptvtree.net:8080/resplice/wdLIS4d9758INyuX/1526
+#EXTINF:-1,PT: ELEVEN SPORTS 1
+http://iptvtree.net:8080/resplice/wdLIS4d9758INyuX/1499
+#EXTINF:-1,PT: ELEVEN SPORTS 2
+http://iptvtree.net:8080/resplice/wdLIS4d9758INyuX/1503
+#EXTINF:-1,PT: ELEVEN SPORTS 3
+http://iptvtree.net:8080/resplice/wdLIS4d9758INyuX/1506
+#EXTINF:-1,PT: ELEVEN SPORTS 4
+http://iptvtree.net:8080/resplice/wdLIS4d9758INyuX/1509
+#EXTINF:-1,PT: ELEVEN SPORTS 5
+http://iptvtree.net:8080/resplice/wdLIS4d9758INyuX/1512
+#EXTINF:-1,PT: ELEVEN SPORTS 6
+http://iptvtree.net:8080/resplice/wdLIS4d9758INyuX/1515
+#EXTINF:-1,PT: euronews
+http://iptvtree.net:8080/resplice/wdLIS4d9758INyuX/4007
+#EXTINF:-1,PT: EUROSPORT 1
+http://iptvtree.net:8080/resplice/wdLIS4d9758INyuX/1517
+#EXTINF:-1,PT: EUROSPORT 2
+http://iptvtree.net:8080/resplice/wdLIS4d9758INyuX/1518
+#EXTINF:-1,PT: FASHIONTV
+http://iptvtree.net:8080/resplice/wdLIS4d9758INyuX/2656
+#EXTINF:-1,PT: Food Network
+http://iptvtree.net:8080/resplice/wdLIS4d9758INyuX/2044
+#EXTINF:-1,PT: FOX
+http://iptvtree.net:8080/resplice/wdLIS4d9758INyuX/1461
+#EXTINF:-1,PT: Fox Comedy
+http://iptvtree.net:8080/resplice/wdLIS4d9758INyuX/1465
+#EXTINF:-1,PT: Fox Crime
+http://iptvtree.net:8080/resplice/wdLIS4d9758INyuX/1463
+#EXTINF:-1,PT: Fox Life
+http://iptvtree.net:8080/resplice/wdLIS4d9758INyuX/1459
+#EXTINF:-1,PT: FOX Movies
+http://iptvtree.net:8080/resplice/wdLIS4d9758INyuX/1457
+#EXTINF:-1,PT: Fuel TV
+http://iptvtree.net:8080/resplice/wdLIS4d9758INyuX/1521
+#EXTINF:-1,PT: Historia
+http://iptvtree.net:8080/resplice/wdLIS4d9758INyuX/1525
+#EXTINF:-1,PT: Investigation Discovery
+http://iptvtree.net:8080/resplice/wdLIS4d9758INyuX/5914
+#EXTINF:-1,PT: JimJam
+http://iptvtree.net:8080/resplice/wdLIS4d9758INyuX/1442
+#EXTINF:-1,PT: Kuriakos Kids
+http://iptvtree.net:8080/resplice/wdLIS4d9758INyuX/10828
+#EXTINF:-1,PT: Kuriakos TV
+http://iptvtree.net:8080/resplice/wdLIS4d9758INyuX/9697
+#EXTINF:-1,PT: MEO Destaques
+http://iptvtree.net:8080/resplice/wdLIS4d9758INyuX/265256
+#EXTINF:-1,PT: MEO Videoclube
+http://iptvtree.net:8080/resplice/wdLIS4d9758INyuX/265255
+#EXTINF:-1,PT: Motorvision TV
+http://iptvtree.net:8080/resplice/wdLIS4d9758INyuX/4012
+#EXTINF:-1,PT: MTV Live
+http://iptvtree.net:8080/resplice/wdLIS4d9758INyuX/198683
+#EXTINF:-1,PT: MTV Portugal
+http://iptvtree.net:8080/resplice/wdLIS4d9758INyuX/1534
+#EXTINF:-1,PT: NAT GEO
+http://iptvtree.net:8080/resplice/wdLIS4d9758INyuX/1530
+#EXTINF:-1,PT: NAT GEO Wild
+http://iptvtree.net:8080/resplice/wdLIS4d9758INyuX/1531
+#EXTINF:-1,PT: NBA TV
+http://iptvtree.net:8080/resplice/wdLIS4d9758INyuX/296750
+#EXTINF:-1,PT: Netflix
+http://iptvtree.net:8080/resplice/wdLIS4d9758INyuX/24517
+#EXTINF:-1,PT: Netflix Kids
+http://iptvtree.net:8080/resplice/wdLIS4d9758INyuX/201051
+#EXTINF:-1,PT: Nick Junior
+http://iptvtree.net:8080/resplice/wdLIS4d9758INyuX/9693
+#EXTINF:-1,PT: nickelodeon
+http://iptvtree.net:8080/resplice/wdLIS4d9758INyuX/1436
+#EXTINF:-1,PT: Nos Studios
+http://iptvtree.net:8080/resplice/wdLIS4d9758INyuX/1454
+#EXTINF:-1,PT: Odisseia
+http://iptvtree.net:8080/resplice/wdLIS4d9758INyuX/1532
+#EXTINF:-1,PT: OPTO
+http://iptvtree.net:8080/resplice/wdLIS4d9758INyuX/299728
+#EXTINF:-1,PT: PANDA Kids
+http://iptvtree.net:8080/resplice/wdLIS4d9758INyuX/290678
+#EXTINF:-1,PT: Porto Canal
+http://iptvtree.net:8080/resplice/wdLIS4d9758INyuX/1419
+#EXTINF:-1,PT: Queens United TV
+http://iptvtree.net:8080/resplice/wdLIS4d9758INyuX/299377
+#EXTINF:-1,PT: Record TV
+http://iptvtree.net:8080/resplice/wdLIS4d9758INyuX/298700
+#EXTINF:-1,PT: RTP 1
+http://iptvtree.net:8080/resplice/wdLIS4d9758INyuX/1404
+#EXTINF:-1,PT: RTP 2
+http://iptvtree.net:8080/resplice/wdLIS4d9758INyuX/1406
+#EXTINF:-1,PT: RTP 3
+http://iptvtree.net:8080/resplice/wdLIS4d9758INyuX/1418
+#EXTINF:-1,PT: RTP Arena
+http://iptvtree.net:8080/resplice/wdLIS4d9758INyuX/290673
+#EXTINF:-1,PT: RTP Açores
+http://iptvtree.net:8080/resplice/wdLIS4d9758INyuX/2055
+#EXTINF:-1,PT: RTP Madeira
+http://iptvtree.net:8080/resplice/wdLIS4d9758INyuX/278558
+#EXTINF:-1,PT: RTP Memória
+http://iptvtree.net:8080/resplice/wdLIS4d9758INyuX/1425
+#EXTINF:-1,PT: RTP África
+http://iptvtree.net:8080/resplice/wdLIS4d9758INyuX/1424
+#EXTINF:-1,PT: SAUDE+
+http://iptvtree.net:8080/resplice/wdLIS4d9758INyuX/81973
+#EXTINF:-1,PT: SIC
+http://iptvtree.net:8080/resplice/wdLIS4d9758INyuX/1408
+#EXTINF:-1,PT: SIC Caras
+http://iptvtree.net:8080/resplice/wdLIS4d9758INyuX/5910
+#EXTINF:-1,PT: SIC Internacional
+http://iptvtree.net:8080/resplice/wdLIS4d9758INyuX/297535
+#EXTINF:-1,PT: SIC K
+http://iptvtree.net:8080/resplice/wdLIS4d9758INyuX/4021
+#EXTINF:-1,PT: SIC Mulher
+http://iptvtree.net:8080/resplice/wdLIS4d9758INyuX/1427
+#EXTINF:-1,PT: SIC Noticias
+http://iptvtree.net:8080/resplice/wdLIS4d9758INyuX/1416
+#EXTINF:-1,PT: SIC Novelas
+http://iptvtree.net:8080/resplice/wdLIS4d9758INyuX/299727
+#EXTINF:-1,PT: SIC Radical
+http://iptvtree.net:8080/resplice/wdLIS4d9758INyuX/1429
+#EXTINF:-1,PT: SPORT TV +
+http://iptvtree.net:8080/resplice/wdLIS4d9758INyuX/1481
+#EXTINF:-1,PT: SPORT TV 1
+http://iptvtree.net:8080/resplice/wdLIS4d9758INyuX/1483
+#EXTINF:-1,PT: SPORT TV 2
+http://iptvtree.net:8080/resplice/wdLIS4d9758INyuX/1486
+#EXTINF:-1,PT: SPORT TV 3
+http://iptvtree.net:8080/resplice/wdLIS4d9758INyuX/1489
+#EXTINF:-1,PT: SPORT TV 4
+http://iptvtree.net:8080/resplice/wdLIS4d9758INyuX/1492
+#EXTINF:-1,PT: SPORT TV 5
+http://iptvtree.net:8080/resplice/wdLIS4d9758INyuX/1495
+#EXTINF:-1,PT: SPORT TV 6
+http://iptvtree.net:8080/resplice/wdLIS4d9758INyuX/281487
+#EXTINF:-1,PT: SPORT TV NBA
+http://iptvtree.net:8080/resplice/wdLIS4d9758INyuX/2051
+#EXTINF:-1,PT: Sporting TV
+http://iptvtree.net:8080/resplice/wdLIS4d9758INyuX/1519
+#EXTINF:-1,PT: SYFY Portugal
+http://iptvtree.net:8080/resplice/wdLIS4d9758INyuX/1475
+#EXTINF:-1,PT: TCV Internacional
+http://iptvtree.net:8080/resplice/wdLIS4d9758INyuX/299134
+#EXTINF:-1,PT: TLC
+http://iptvtree.net:8080/resplice/wdLIS4d9758INyuX/1479
+#EXTINF:-1,PT: TPA Notícias
+http://iptvtree.net:8080/resplice/wdLIS4d9758INyuX/298022
+#EXTINF:-1,PT: Travel Channel
+http://iptvtree.net:8080/resplice/wdLIS4d9758INyuX/1529
+#EXTINF:-1,PT: TV Mana 1
+http://iptvtree.net:8080/resplice/wdLIS4d9758INyuX/298811
+#EXTINF:-1,PT: TVCine Action
+http://iptvtree.net:8080/resplice/wdLIS4d9758INyuX/1452
+#EXTINF:-1,PT: TVCine Edition
+http://iptvtree.net:8080/resplice/wdLIS4d9758INyuX/82254
+#EXTINF:-1,PT: TVCine Emotion
+http://iptvtree.net:8080/resplice/wdLIS4d9758INyuX/1448
+#EXTINF:-1,PT: TVCine Top
+http://iptvtree.net:8080/resplice/wdLIS4d9758INyuX/1446
+#EXTINF:-1,PT: TVCine+
+http://iptvtree.net:8080/resplice/wdLIS4d9758INyuX/278686
+#EXTINF:-1,PT: TVI
+http://iptvtree.net:8080/resplice/wdLIS4d9758INyuX/1410
+#EXTINF:-1,PT: TVI Ficção
+http://iptvtree.net:8080/resplice/wdLIS4d9758INyuX/1421
+#EXTINF:-1,PT: TVI Reality
+http://iptvtree.net:8080/resplice/wdLIS4d9758INyuX/1423
+#EXTINF:-1,PT: Way TV
+http://iptvtree.net:8080/resplice/wdLIS4d9758INyuX/299411
+
